@@ -1,16 +1,17 @@
 {
   "files": {
     "main.css": "/ACL-CSHS-Website/static/css/main.073c9b0a.css",
-    "main.js": "/ACL-CSHS-Website/static/js/main.6d8c9dce.js",
+    "main.js": "/ACL-CSHS-Website/static/js/main.9edce806.js",
     "static/js/787.b6916114.chunk.js": "/ACL-CSHS-Website/static/js/787.b6916114.chunk.js",
     "static/media/DEV.png": "/ACL-CSHS-Website/static/media/DEV.cd98f8b388e41be0cc44.png",
+    "static/media/DEV_light.png": "/ACL-CSHS-Website/static/media/DEV_light.7d453e38bec2fc983484.png",
     "index.html": "/ACL-CSHS-Website/index.html",
     "main.073c9b0a.css.map": "/ACL-CSHS-Website/static/css/main.073c9b0a.css.map",
-    "main.6d8c9dce.js.map": "/ACL-CSHS-Website/static/js/main.6d8c9dce.js.map",
+    "main.9edce806.js.map": "/ACL-CSHS-Website/static/js/main.9edce806.js.map",
     "787.b6916114.chunk.js.map": "/ACL-CSHS-Website/static/js/787.b6916114.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.6d8c9dce.js"
+    "static/js/main.9edce806.js"
   ]
 }
